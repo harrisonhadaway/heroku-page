@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/harrisonhadaway/heroku-page#readme",
   "dependencies": {
+    "bootstrap": "^4.0.0-beta",
     "express": "^4.15.4"
   }
 }
